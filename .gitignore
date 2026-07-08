@@ -1,0 +1,9 @@
+# Artefactos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs generados por el propio desinstalador si se prueban localmente
+*.log
+
+# Configuracion local de Claude Code (no forma parte del proyecto)
+.claude/
